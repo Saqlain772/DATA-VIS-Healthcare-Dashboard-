@@ -1,1 +1,1 @@
-# DATA-VIS-Healthcare-Dashboard-
+This project involves creating an Interactive Dashboard using Tableau to perform Exploratory Data Analysis (EDA) on a healthcare dataset. The objective is to uncover and present meaningful insights by analyzing trends, patterns, and anomalies in the data. The dashboard allows users to explore healthcare-related data interactively.
